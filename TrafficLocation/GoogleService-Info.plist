@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>383976973136-reuga8oef1uf18ulf9ad3t59jhopfll1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.383976973136-reuga8oef1uf18ulf9ad3t59jhopfll1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCthtAVyUfY5zQi3Pg_hvyo4IfI9uvtp5k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>383976973136</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>STI.TrafficLocation</string>
+	<key>PROJECT_ID</key>
+	<string>trafficlocation</string>
+	<key>STORAGE_BUCKET</key>
+	<string>trafficlocation.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:383976973136:ios:c08f3e780fd7add5</string>
+	<key>DATABASE_URL</key>
+	<string>https://trafficlocation.firebaseio.com</string>
+</dict>
+</plist>

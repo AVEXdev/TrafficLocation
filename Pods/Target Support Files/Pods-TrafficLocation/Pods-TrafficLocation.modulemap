@@ -1,0 +1,6 @@
+framework module Pods_TrafficLocation {
+  umbrella header "Pods-TrafficLocation-umbrella.h"
+
+  export *
+  module * { export * }
+}
